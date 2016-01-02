@@ -1,0 +1,1140 @@
+The direct model turned out to have other benefits that even Michael Dell couldn’t have
+anticipated when he founded his company. “You actually get to have a relationship with the
+customer,” he explains. “And that creates valuable information, which, in turn, allows us to
+leverage our relationships with both suppliers and customers. Couple that information with
+technology, and you have the infrastructure to revolutionize the fundamental business
+models of major global companies.”
+In this interview with HBR editor-at-large Joan Magretta, Michael Dell describes how his
+company is using technology and information to blur the traditional boundaries in the value
+chain among suppliers, manufacturers, and end users. In so doing, Dell Computer is evolving
+in a direction that Michael Dell calls virtual integration. The individual pieces of the strategy—
+customer focus, supplier partnerships, mass customization, just-in-time manufacturing—may all be familiar. But Michael Dell’s insight into how to combine them is highly innovative:
+technology is enabling coordination across company boundaries to achieve new levels of
+efficiency and productivity, as well as extraordinary returns to investors. Virtual integration
+harnesses the economic benefits of two very different business models. It offers the
+advantages of a tightly coordinated supply chain that have traditionally come through
+vertical integration. At the same time, it benefits from the focus and specialization that drive
+virtual corporations. Virtual integration, as Michael Dell envisions it, has the potential to
+achieve both coordination and focus. If it delivers on that promise, it may well become a new
+organizational model for the information age.
+How has Dell pioneered a new business model within the computer industry?
+If you look back to the industry’s inception, the founding companies essentially had to create
+all the components themselves. They had to manufacture disk drives and memory chips and
+application software; all the various pieces of the industry had to be vertically integrated
+within one firm.
+So the companies that were the stars ten years ago, the Digital Equipments of this world, had
+to build massive structures to produce everything a computer needed. They had no choice
+but to become expert in a wide array of components, some of which had nothing to do with
+creating value for the customer.
+As the industry grew, more specialized companies developed to produce specific
+components. That opened up the opportunity to create a business that was far more focused
+and efficient. As a small start-up, Dell couldn’t afford to create every piece of the value chain.
+Consider a component like a graphics chip. Five or ten years ago, a whole bunch of companies
+in the personal computer industry were trying to create their own graphics chips. Now, if
+you’ve got a race with 20 players that are all vying to produce the fastest graphics chip in the
+world, do you want to be the twenty-first horse, or do you want to evaluate the field of 20 and
+pick the best one?
+It’s a pretty simple strategy, but at the time it went against the dominant, “engineering-
+centric” view of the industry. The IBMs and Compaqs and HPs subscribed to a “we-have-to-
+develop-everything” view of the world. If you weren’t doing component assembly, you
+weren’t a real computer company. It was like a rite of passage. You somehow proved your
+who just fixed your computer?” The vast majority think that person works for us, which is
+just great. That’s part of virtual integration.
+Aren’t you just outsourcing your after-sales service? Is what you’re describing fundamentally
+different from outsourcing?
+Outsourcing, at least in the IT world, is almost always a way to get rid of a problem a company
+hasn’t been able to solve itself. The classic case is the company with 2,000 people in the IT
+department. Nobody knows what they do, and nobody knows why they do it. The solution—
+outsource IT to a service provider, and hopefully they’ll fix it. But if you look at what happens
+five years later, it’s not necessarily a pretty picture.
+That’s not what we’re doing at all. We focus on how we can coordinate our activities to create
+the most value for customers.
+With our service providers, we’re working to set quality measures and, more important, to
+build data linkages that let us see in real time how we’re doing—when parts are dispatched,
+for instance, or how long it takes to respond to a request for service. We look at our business
+and see, for example, that over the next ten years we are going to be making lots of notebook
+computers. Dell might need 20 million flat-panel displays, and some years there will be more
+demand than supply. Other years, there will be more supply than demand. A few companies
+are currently making multibillion-dollar investments in the manufacture of these displays.
+So we cook up a little deal where the supplier agrees to meet 25% of our volume requirements
+for displays, and because of the long-term commitment we make to them, we’ll get our
+displays year in and year out, even when there’s more demand than supply. The supplier
+effectively becomes our partner. They assign their engineers to our design team, and we start
+to treat them as if they were part of the company. For example, when we launch a new
+product, their engineers are stationed right in our plants. If a customer calls in with a
+problem, we’ll stop shipping product while they fix design flaws in real time.
+Figuring out how many partners we need has been a process of trial and error. You learn
+when you operate on the cutting edge of technology that things don’t always work as
+planned. The rule we follow is to have as few partners as possible. And they will last as long as
+they maintain their leadership in technology and quality. This isn’t like the automobile
+business, where you find a tire supplier that you will probably stick with forever. Where the
+technology is fairly stable—in monitors, for example—we expect our partnerships to last a
+long time. Others will be more volatile. But regardless of how long these relationships last,
+virtual integration means you’re basically stitching together a business with partners that are
+treated as if they’re inside the company. You’re sharing information in a real-time fashion.
+We tell our suppliers exactly what our daily production requirements are. So it’s not, “Well,
+every two weeks deliver 5,000 to this warehouse, and we’ll put them on the shelf, and then
+we’ll take them off the shelf.” It’s, “Tomorrow morning we need 8,562, and deliver them to
+door number seven by 7 a.m.”I think about it this way: Assets collect risks around them in one form or another. Inventory is
+one risk, and accounts receivable is another risk. In our case—with 70% of our sales going to
+large corporate customers—accounts receivable isn’t hard to manage because companies like
+Goldman Sachs and Microsoft and Oracle tend to be able to pay their bills. But in the
+computer industry, inventory can actually be a pretty massive risk because if the cost of
+materials goes down 50% a year and you have two or three months of inventory versus 11
+days, you’ve got a big cost disadvantage. And you’re vulnerable to product transitions, when
+you can get stuck with obsolete inventory.
+nventory velocity is one of a handful of key performance measures we watch very closely. It
+focuses us on working with our suppliers to keep reducing inventory and increasing speed.
+With a supplier like Sony, which makes very good, reliable monitors, we figure there’s no
+need for us to have any inventory at all. We are confident in putting the Dell name on them,
+and they work fine. We don’t even take these monitors out of the box to test them because
+we’ve gotten them to under 1,000 defects per million. So what’s the point in having a monitor
+put on a truck to Austin, Texas, and then taken off the truck and sent on a little tour around
+the warehouse, only to be put back on another truck? That’s just a big waste of time and
+money, unless we get our jollies from touching monitors, which we don’t.
+So we went to Sony and said, “Hey, we’re going to buy two or three million of these monitors
+this year. Why don’t we just pick them up every day as we need them?” At first, it’s a little
+confusing to the suppliers because you’re saying, “Now listen carefully. If you will help us get
+your product from the end of your line to our customer faster, we won’t have any in our
+warehouse.” And the suppliers look at you like you’re crazy and not making any sense.
+They’re used to delivering in larger quantities, so at first they think this means you’re going to
+buy less from them. And then the lightbulb goes on, and they realize we’ll be buying more
+because we’ll be taking it faster.We tell Airborne Express or UPS to come to Austin and pick up 10,000 computers a day and go
+over to the Sony factory in Mexico and pick up the corresponding number of monitors. Then
+while we’re all sleeping, they match up the computers and the monitors, and deliver them to
+the customer. Of course, this requires sophisticated data exchange. Most people are familiar with the way a
+company like Black & Decker uses information links with the thousands of retailers that sell
+its products. When a customer in Omaha buys a drill from his local hardware store, the system
+immediately tells Black & Decker to send another unit of that particular drill to that particular
+store. So their system has to replenish supply, unit by unit, to thousands of outlets. From the
+supplier’s point of view, Dell is dramatically simpler. Our orders are typically for thousands of
+units, and they need to go to only one of three manufacturing centers: Austin, Ireland, and
+Malaysia. It’s almost ideal from a supplier standpoint because we have real-time information
+on what the demand is, and all the supplier has to do is get the product to us.
+And because we build to our customers’ order, typically, with just five or six days of lead
+time, suppliers don’t have to worry about sell-through. We only maintain a few days—in some
+cases a few hours—of raw materials on hand. We communicate inventory levels and
+replenishment needs regularly—with some vendors, hourly. The typical case in our industry is the factory building 10,000 units a day, day in and day out.
+First the machines stack up in the warehouse, and then they stack up in the channel. And all
+of a sudden, the guy at the end of the chain hollers, “Whoa, hey, we’ve got too many of these.
+Everybody stop!” And the order to stop flows back through the chain until it reaches every
+component supplier. It’s literally stop and start, because if you have a 90-day lag between the
+point of demand and the point of supply, you’re going to have a lot of inefficiency in the
+process. And the more inventory and time you have, the more variability, and the more
+problems.In our industry, there’s a lot of what I call bad hygiene. Companies stuff the channel to get rid
+of old inventory and to meet short-term financial objectives. We think our approach is better.
+We substitute information for inventory and ship only when we have real demand from real
+end customers.
+How does the direct model benefit your suppliers?
+We can go to Sony and say, “We’re going to be pulling monitors from you in a very consistent,
+predictable way because the distance between the demand and the source of supply is totally
+shrunk.” The longer that distance, the more intermediary channels you add, the less likely it
+is you will have good information about demand—so you will end up with more variability,
+more inventory, higher costs, and more risk.
+Another factor that helps keep our demand for computers level is the mix of customers we
+serve. We don’t have any customer that represents more than 1% to 2% of our revenues. One
+week Exxon is buying, the next week Shell is buying, the next week Ford is buying. But all
+companies don’t decide in unison, “Well, this week we’re going to buy, next week we’re not.”
+You mention your customer mix. Does the direct model imply a particular customer strategy?
+When you’re trying to target profitable segments, averages obscure a lot, and aggregate
+financial statements are pretty meaningless. Our approach to segmentation is to take really
+big numbers and “de-average” them. Until you look inside and understand what’s going on
+by business, by customer, by geography, you don’t know anything. This is a lesson we learned
+the hard way. We incorrectly entered the retail business in 1989, thinking that our direct
+business wouldn’t grow enough, and went into computer superstores and warehouse clubs.
+But when we really started to understand the segment’s profitability, we realized we’d made
+a mistake, and so we exited.For years, we didn’t actively pursue the consumer market because we couldn’t reach our
+profit objectives. So we let our competitors introduce machines with rock-bottom prices and
+zero margins. We figured they could be the ones to teach consumers about PCs while we
+focused our efforts on more profitable segments. And then, because we’re direct and can see
+who is buying what, we noticed something interesting. The industry’s average selling price to
+consumers was going down, but ours was going up. Consumers who were now buying their
+second or third machines—who wanted the most powerful machines and needed less
+handholding—were coming to us. And without focusing on it in a significant way, we had a
+billion-dollar consumer business that was profitable. So we decided in 1997 that it was time
+to dedicate a group to serving that segment.
+Fast-Cycle Segmentation Dell’s rapid growth in recent years has been accompanied by ever
+finer cuts at customer segmentation. This is an important element of Dell’s virtual integration
+with customers. The finer the segmentation, the better able Dell is to forecast what its
+customers are going to need and when. Dell then coordinates the flow of that strategic
+information all the way back to its suppliers, effectively substituting information for
+inventory.Segmentation gets us closer to them. It allows us to understand their needs in a really deep
+way. This closeness gives us access to information that’s absolutely critical to our strategy. It
+helps us forecast what they’re going to need and when. And good forecasts are the key to
+keeping our costs down.We turn our inventory over 30 times per year. If you look at the complexity and the diversity
+of our product line, there’s no way we could do that unless we had credible information about
+what the customer is actually buying. It’s a key part of why rivals have had great difficulty
+competing with Dell. It’s not just that we sell direct, it’s also our ability to forecast demand—
+it’s both the design of the product and the way the information from the customer flows all
+the way through manufacturing to our suppliers. If you don’t have that tight linkage—the
+kind of coordination of information that used to be possible only in vertically integrated
+companies—then trying to manage to 11 days of inventory would be insane. We simply
+couldn’t do it without customers who work with us as partners.
+We see forecasting as a critical sales skill. We teach our sales-account managers to lead
+customers through a discussion of their future PC needs. We’ll walk a customer through every
+department of his company, asking him to designate which needs are certain and which are
+contingent. And when they’re contingent on some event, the salesperson will know what that
+event is so he can follow up. We can do this with our large accounts, which make up the bulk
+of our business. With smaller customers, we have real-time information about what they’re
+buying from our direct telephone salespeople. And we can also steer them in real time, on the
+phone, toward configurations that are available, so this is another way we can fine-tune the
+balance between supply and demand. It’s part of it. There are so many information links between us and our customers. For
+example, we can help large global customers manage their total purchase of PCs by selling
+them a standard product. Then when the guy whose computer isn’t working calls in from
+Singapore, the IT people don’t have to spend the first 30 minutes just figuring out what
+configuration of hardware and software he’s using. Selling direct allows us to keep track of
+the company’s total PC purchases, country by country—and that’s valuable information we
+can feed back to them. We sometimes know more about a customer’s operations than they do
+themselves. Close customer relationships have allowed us to dramatically extend the value we deliver to
+our customers. Today we routinely load the customer’s software in our factory. Eastman
+Chemical, for example, has their own unique mix of software, some of it licensed from
+Microsoft, some of it they’ve written themselves, some of it having to do with the way their
+network works. Normally, they would get their PCs, take them out of the box, and then some
+guy carrying a walkie-talkie and diskettes and CD-ROMs would come to each employee’s desk
+to hook the system up and load all that software. Typically, this takes an hour or two—and
+costs $200 to $300—and it’s a nuisance.
+Our solution was to create a massive network in our factory with high-speed, 100-megabit
+Ethernet. We’ll load Eastman Chemical’s software onto a huge Dell server. Then when a
+machine comes down the assembly line and says, “I’m an Eastman Chemical analyst
+workstation, configuration number 14,” all of a sudden a few hundred megabytes of data
+come rushing through the network and onto the workstation’s hard disk, just as part of the
+progressive build through our factory. If the customer wants, we can put an asset tag with the
+company’s logo on the machine, and we can keep an electronic register of the customer’s
+assets. That’s a lot easier than the customer sending some guy around on a thankless mission,
+placing asset tags on computers when he can find them. What happens to the money our customer is saving? They get to keep most of it. We could
+say, “Well, it costs you $300 to do it, so we’ll charge you $250.” But instead we charge $15 or
+$20, and we make our product and our service much more valuable. It also means we’re not
+going to be just your PC vendor anymore. We’re going to be your IT department for PCs.
+Boeing, for example, has 100,000 Dell PCs, and we have 30 people that live at Boeing, and if
+you look at the things we’re doing for them or for other customers, we don’t look like a
+supplier, we look more like Boeing’s PC department. We become intimately involved in
+planning their PC needs and the configuration of their network.
+It’s not that we make these decisions by ourselves. They’re certainly using their own people
+to get the best answer for the company. But the people working on PCs together, both from
+Dell and Boeing, understand the needs in a very intimate way. They’re right there living it and
+breathing it, as opposed to the typical vendor who says, “Here are your computers. See you
+later.”
+We’ve always visited clients, but now some of our accounts are large enough to justify a
+dedicated on-site team. Remember, a lot of companies have far more complex problems to
+deal with than PC purchasing and servicing. They can’t wait to get somebody else to take care
+of that so they can worry about more strategic issues.
+So some of your coordination with customers is made possible through technology, but
+there’s still a good measure of old-fashioned, face-to-face human contact?
+Yes, that’s right. The idea is to use technology to free people up to solve more complicated
+problems. For example, a customer like MCI can access our internal support tools on-line in
+the same way our own technical-support teams do, saving time and money on both sides.
+They simply go to dell.com, enter some information about their system, and they have
+immediate access to the same information that we use at Dell to help customers. These tools
+are used by internal help-desk groups at large companies as well as by individuals.
+We’ve developed customized intranet sites called Premier Pages for well over 200 of our
+largest global customers. These exist securely within the customers’ firewalls, and they give
+them direct access to purchasing and technical information about the specific configurations
+they buy from us. One of our customers, for example, allows its 50,000 employees to view
+and select products on-line. They use the Premier Page as an interactive catalog of all the
+configurations the company authorizes; employees can then price and order the PC they
+want. They are happy to have some choice, and Dell and the customer are both happy to
+eliminate the paperwork and sales time normally associated with corporate purchasing. That
+frees our salespeople to play a more consultative role.
+We also have developed tools to help customers set up their own customized versions of
+dell.com. There are about 7,000 of these to date.
+How else do you stay close to your customers? 
+In these meetings, our senior technologists share their views on where the technology is
+heading and lay out road maps of product plans over the next two years. There are also
+breakout sessions and working groups in which our engineering teams focus on specific
+product areas and talk about how to solve problems that may not necessarily have anything
+to do with the commercial relationship with Dell. For example, Is leasing better than buying?
+or How do you manage the transition to Windows NT? or How do you manage a field force of
+notebook computers? People in businesses as dissimilar as Unilever and ICI can learn from each other because,
+amazingly, they have very similar problems when it comes to PCs. And we send not only our
+top technologists and engineers but also the real engineers, the people who usually don’t get
+out to talk to customers because they’re too busy developing products. All of our senior
+executives from around the company participate, spending time with the customer, listening
+to how we’re doing. The ratio is about one Dell person to one customer. At our last session,
+we had about 100 customers. And that helps us, as well, with our own demand forecasting. So we’re helping each other in
+important ways. We hire a lot of people from other companies in the industry, and they tell us
+that these meetings are unique.
+Do you spend a significant amount of your time at these meetings?
+I spend three days at each of them. They’re great events. In the normal course of our
+business, I have lots of opportunity to talk to customers one on one, but there is something
+much more powerful about this kind of forum. Customers tend to speak more openly when
+they’re with their peers and they know we’re there and we’re listening.
+At every Platinum Council, we review what they told us last time and what we did about it.
+We keep an ongoing record of the issues. Let me give you a concrete example: A few years
+ago, the engineers responsible for our desktops were operating on the theory that customers
+really wanted performance from these products—the faster the better. But what the
+customers actually said at the Platinum Councils was, “Yeah, performance, that’s okay. But
+what I really want is a stable product that doesn’t change. Because if I’m trying to run a bank
+or an airline, I don’t care if it’s 2% faster or 3% slower. What really matters is stability.” So our
+engineers thought one thing, the customers thought another thing. It took the direct feedback
+from the Platinum Councils to spotlight this failure to communicate. We responded by
+building product with intergenerational consistency over many years. The same feedback has
+helped shape the creation of our brands. For both our desktop and notebook businesses, we
+created different brands designed to deliver greater stability to corporate customers, as
+opposed to the fast technology changes that consumers demand.
+Most of the managerial challenges at Dell Computer have to do with what we call velocity—
+speeding the pace of every element of our business. Life cycles in our business are measured
+in months, not years, and if you don’t move fast, you’re out of the game. Managing velocity is
+about managing information—using a constant flow of information to drive operating
+practices, from the performance measures we track to how we work with our suppliers.
+Performance Metrics. At Dell, we use the balance sheet and the fundamentals of the P&L on a
+monthly basis as tools to manage operations. From the balance sheet, we track three cash-
+flow measures very closely. We look at weekly updates of how many days of inventory we
+have, broken out by product component. We can then work closely with our suppliers so we
+end up with the right inventory. When it’s not quite right, we can use our direct-sales model
+to steer customers toward comparable products that we do have. So we use inventory
+information to work both the front and back ends at the same time.
+The direct model turned out to have other benefits that even Michael Dell couldn’t have
+anticipated when he founded his company. “You actually get to have a relationship with the
+customer,” he explains. “And that creates valuable information, which, in turn, allows us to
+leverage our relationships with both suppliers and customers. Couple that information with
+technology, and you have the infrastructure to revolutionize the fundamental business
+models of major global companies.”
+In this interview with HBR editor-at-large Joan Magretta, Michael Dell describes how his
+company is using technology and information to blur the traditional boundaries in the value
+chain among suppliers, manufacturers, and end users. In so doing, Dell Computer is evolving
+in a direction that Michael Dell calls virtual integration. The individual pieces of the strategy—
+customer focus, supplier partnerships, mass customization, just-in-time manufacturing—may all be familiar. But Michael Dell’s insight into how to combine them is highly innovative:
+technology is enabling coordination across company boundaries to achieve new levels of
+efficiency and productivity, as well as extraordinary returns to investors. Virtual integration
+harnesses the economic benefits of two very different business models. It offers the
+advantages of a tightly coordinated supply chain that have traditionally come through
+vertical integration. At the same time, it benefits from the focus and specialization that drive
+virtual corporations. Virtual integration, as Michael Dell envisions it, has the potential to
+achieve both coordination and focus. If it delivers on that promise, it may well become a new
+organizational model for the information age.
+How has Dell pioneered a new business model within the computer industry?
+If you look back to the industry’s inception, the founding companies essentially had to create
+all the components themselves. They had to manufacture disk drives and memory chips and
+application software; all the various pieces of the industry had to be vertically integrated
+within one firm.
+So the companies that were the stars ten years ago, the Digital Equipments of this world, had
+to build massive structures to produce everything a computer needed. They had no choice
+but to become expert in a wide array of components, some of which had nothing to do with
+creating value for the customer.
+As the industry grew, more specialized companies developed to produce specific
+components. That opened up the opportunity to create a business that was far more focused
+and efficient. As a small start-up, Dell couldn’t afford to create every piece of the value chain.
+Consider a component like a graphics chip. Five or ten years ago, a whole bunch of companies
+in the personal computer industry were trying to create their own graphics chips. Now, if
+you’ve got a race with 20 players that are all vying to produce the fastest graphics chip in the
+world, do you want to be the twenty-first horse, or do you want to evaluate the field of 20 and
+pick the best one?
+It’s a pretty simple strategy, but at the time it went against the dominant, “engineering-
+centric” view of the industry. The IBMs and Compaqs and HPs subscribed to a “we-have-to-
+develop-everything” view of the world. If you weren’t doing component assembly, you
+weren’t a real computer company. It was like a rite of passage. You somehow proved your
+who just fixed your computer?” The vast majority think that person works for us, which is
+just great. That’s part of virtual integration.
+Aren’t you just outsourcing your after-sales service? Is what you’re describing fundamentally
+different from outsourcing?
+Outsourcing, at least in the IT world, is almost always a way to get rid of a problem a company
+hasn’t been able to solve itself. The classic case is the company with 2,000 people in the IT
+department. Nobody knows what they do, and nobody knows why they do it. The solution—
+outsource IT to a service provider, and hopefully they’ll fix it. But if you look at what happens
+five years later, it’s not necessarily a pretty picture.
+That’s not what we’re doing at all. We focus on how we can coordinate our activities to create
+the most value for customers.
+With our service providers, we’re working to set quality measures and, more important, to
+build data linkages that let us see in real time how we’re doing—when parts are dispatched,
+for instance, or how long it takes to respond to a request for service. We look at our business
+and see, for example, that over the next ten years we are going to be making lots of notebook
+computers. Dell might need 20 million flat-panel displays, and some years there will be more
+demand than supply. Other years, there will be more supply than demand. A few companies
+are currently making multibillion-dollar investments in the manufacture of these displays.
+So we cook up a little deal where the supplier agrees to meet 25% of our volume requirements
+for displays, and because of the long-term commitment we make to them, we’ll get our
+displays year in and year out, even when there’s more demand than supply. The supplier
+effectively becomes our partner. They assign their engineers to our design team, and we start
+to treat them as if they were part of the company. For example, when we launch a new
+product, their engineers are stationed right in our plants. If a customer calls in with a
+problem, we’ll stop shipping product while they fix design flaws in real time.
+Figuring out how many partners we need has been a process of trial and error. You learn
+when you operate on the cutting edge of technology that things don’t always work as
+planned. The rule we follow is to have as few partners as possible. And they will last as long as
+they maintain their leadership in technology and quality. This isn’t like the automobile
+business, where you find a tire supplier that you will probably stick with forever. Where the
+technology is fairly stable—in monitors, for example—we expect our partnerships to last a
+long time. Others will be more volatile. But regardless of how long these relationships last,
+virtual integration means you’re basically stitching together a business with partners that are
+treated as if they’re inside the company. You’re sharing information in a real-time fashion.
+We tell our suppliers exactly what our daily production requirements are. So it’s not, “Well,
+every two weeks deliver 5,000 to this warehouse, and we’ll put them on the shelf, and then
+we’ll take them off the shelf.” It’s, “Tomorrow morning we need 8,562, and deliver them to
+door number seven by 7 a.m.”I think about it this way: Assets collect risks around them in one form or another. Inventory is
+one risk, and accounts receivable is another risk. In our case—with 70% of our sales going to
+large corporate customers—accounts receivable isn’t hard to manage because companies like
+Goldman Sachs and Microsoft and Oracle tend to be able to pay their bills. But in the
+computer industry, inventory can actually be a pretty massive risk because if the cost of
+materials goes down 50% a year and you have two or three months of inventory versus 11
+days, you’ve got a big cost disadvantage. And you’re vulnerable to product transitions, when
+you can get stuck with obsolete inventory.
+nventory velocity is one of a handful of key performance measures we watch very closely. It
+focuses us on working with our suppliers to keep reducing inventory and increasing speed.
+With a supplier like Sony, which makes very good, reliable monitors, we figure there’s no
+need for us to have any inventory at all. We are confident in putting the Dell name on them,
+and they work fine. We don’t even take these monitors out of the box to test them because
+we’ve gotten them to under 1,000 defects per million. So what’s the point in having a monitor
+put on a truck to Austin, Texas, and then taken off the truck and sent on a little tour around
+the warehouse, only to be put back on another truck? That’s just a big waste of time and
+money, unless we get our jollies from touching monitors, which we don’t.
+So we went to Sony and said, “Hey, we’re going to buy two or three million of these monitors
+this year. Why don’t we just pick them up every day as we need them?” At first, it’s a little
+confusing to the suppliers because you’re saying, “Now listen carefully. If you will help us get
+your product from the end of your line to our customer faster, we won’t have any in our
+warehouse.” And the suppliers look at you like you’re crazy and not making any sense.
+They’re used to delivering in larger quantities, so at first they think this means you’re going to
+buy less from them. And then the lightbulb goes on, and they realize we’ll be buying more
+because we’ll be taking it faster.We tell Airborne Express or UPS to come to Austin and pick up 10,000 computers a day and go
+over to the Sony factory in Mexico and pick up the corresponding number of monitors. Then
+while we’re all sleeping, they match up the computers and the monitors, and deliver them to
+the customer. Of course, this requires sophisticated data exchange. Most people are familiar with the way a
+company like Black & Decker uses information links with the thousands of retailers that sell
+its products. When a customer in Omaha buys a drill from his local hardware store, the system
+immediately tells Black & Decker to send another unit of that particular drill to that particular
+store. So their system has to replenish supply, unit by unit, to thousands of outlets. From the
+supplier’s point of view, Dell is dramatically simpler. Our orders are typically for thousands of
+units, and they need to go to only one of three manufacturing centers: Austin, Ireland, and
+Malaysia. It’s almost ideal from a supplier standpoint because we have real-time information
+on what the demand is, and all the supplier has to do is get the product to us.
+And because we build to our customers’ order, typically, with just five or six days of lead
+time, suppliers don’t have to worry about sell-through. We only maintain a few days—in some
+cases a few hours—of raw materials on hand. We communicate inventory levels and
+replenishment needs regularly—with some vendors, hourly. The typical case in our industry is the factory building 10,000 units a day, day in and day out.
+First the machines stack up in the warehouse, and then they stack up in the channel. And all
+of a sudden, the guy at the end of the chain hollers, “Whoa, hey, we’ve got too many of these.
+Everybody stop!” And the order to stop flows back through the chain until it reaches every
+component supplier. It’s literally stop and start, because if you have a 90-day lag between the
+point of demand and the point of supply, you’re going to have a lot of inefficiency in the
+process. And the more inventory and time you have, the more variability, and the more
+problems.In our industry, there’s a lot of what I call bad hygiene. Companies stuff the channel to get rid
+of old inventory and to meet short-term financial objectives. We think our approach is better.
+We substitute information for inventory and ship only when we have real demand from real
+end customers.
+How does the direct model benefit your suppliers?
+We can go to Sony and say, “We’re going to be pulling monitors from you in a very consistent,
+predictable way because the distance between the demand and the source of supply is totally
+shrunk.” The longer that distance, the more intermediary channels you add, the less likely it
+is you will have good information about demand—so you will end up with more variability,
+more inventory, higher costs, and more risk.
+Another factor that helps keep our demand for computers level is the mix of customers we
+serve. We don’t have any customer that represents more than 1% to 2% of our revenues. One
+week Exxon is buying, the next week Shell is buying, the next week Ford is buying. But all
+companies don’t decide in unison, “Well, this week we’re going to buy, next week we’re not.”
+You mention your customer mix. Does the direct model imply a particular customer strategy?
+When you’re trying to target profitable segments, averages obscure a lot, and aggregate
+financial statements are pretty meaningless. Our approach to segmentation is to take really
+big numbers and “de-average” them. Until you look inside and understand what’s going on
+by business, by customer, by geography, you don’t know anything. This is a lesson we learned
+the hard way. We incorrectly entered the retail business in 1989, thinking that our direct
+business wouldn’t grow enough, and went into computer superstores and warehouse clubs.
+But when we really started to understand the segment’s profitability, we realized we’d made
+a mistake, and so we exited.For years, we didn’t actively pursue the consumer market because we couldn’t reach our
+profit objectives. So we let our competitors introduce machines with rock-bottom prices and
+zero margins. We figured they could be the ones to teach consumers about PCs while we
+focused our efforts on more profitable segments. And then, because we’re direct and can see
+who is buying what, we noticed something interesting. The industry’s average selling price to
+consumers was going down, but ours was going up. Consumers who were now buying their
+second or third machines—who wanted the most powerful machines and needed less
+handholding—were coming to us. And without focusing on it in a significant way, we had a
+billion-dollar consumer business that was profitable. So we decided in 1997 that it was time
+to dedicate a group to serving that segment.
+Fast-Cycle Segmentation Dell’s rapid growth in recent years has been accompanied by ever
+finer cuts at customer segmentation. This is an important element of Dell’s virtual integration
+with customers. The finer the segmentation, the better able Dell is to forecast what its
+customers are going to need and when. Dell then coordinates the flow of that strategic
+information all the way back to its suppliers, effectively substituting information for
+inventory.Segmentation gets us closer to them. It allows us to understand their needs in a really deep
+way. This closeness gives us access to information that’s absolutely critical to our strategy. It
+helps us forecast what they’re going to need and when. And good forecasts are the key to
+keeping our costs down.We turn our inventory over 30 times per year. If you look at the complexity and the diversity
+of our product line, there’s no way we could do that unless we had credible information about
+what the customer is actually buying. It’s a key part of why rivals have had great difficulty
+competing with Dell. It’s not just that we sell direct, it’s also our ability to forecast demand—
+it’s both the design of the product and the way the information from the customer flows all
+the way through manufacturing to our suppliers. If you don’t have that tight linkage—the
+kind of coordination of information that used to be possible only in vertically integrated
+companies—then trying to manage to 11 days of inventory would be insane. We simply
+couldn’t do it without customers who work with us as partners.
+We see forecasting as a critical sales skill. We teach our sales-account managers to lead
+customers through a discussion of their future PC needs. We’ll walk a customer through every
+department of his company, asking him to designate which needs are certain and which are
+contingent. And when they’re contingent on some event, the salesperson will know what that
+event is so he can follow up. We can do this with our large accounts, which make up the bulk
+of our business. With smaller customers, we have real-time information about what they’re
+buying from our direct telephone salespeople. And we can also steer them in real time, on the
+phone, toward configurations that are available, so this is another way we can fine-tune the
+balance between supply and demand. It’s part of it. There are so many information links between us and our customers. For
+example, we can help large global customers manage their total purchase of PCs by selling
+them a standard product. Then when the guy whose computer isn’t working calls in from
+Singapore, the IT people don’t have to spend the first 30 minutes just figuring out what
+configuration of hardware and software he’s using. Selling direct allows us to keep track of
+the company’s total PC purchases, country by country—and that’s valuable information we
+can feed back to them. We sometimes know more about a customer’s operations than they do
+themselves. Close customer relationships have allowed us to dramatically extend the value we deliver to
+our customers. Today we routinely load the customer’s software in our factory. Eastman
+Chemical, for example, has their own unique mix of software, some of it licensed from
+Microsoft, some of it they’ve written themselves, some of it having to do with the way their
+network works. Normally, they would get their PCs, take them out of the box, and then some
+guy carrying a walkie-talkie and diskettes and CD-ROMs would come to each employee’s desk
+to hook the system up and load all that software. Typically, this takes an hour or two—and
+costs $200 to $300—and it’s a nuisance.
+Our solution was to create a massive network in our factory with high-speed, 100-megabit
+Ethernet. We’ll load Eastman Chemical’s software onto a huge Dell server. Then when a
+machine comes down the assembly line and says, “I’m an Eastman Chemical analyst
+workstation, configuration number 14,” all of a sudden a few hundred megabytes of data
+come rushing through the network and onto the workstation’s hard disk, just as part of the
+progressive build through our factory. If the customer wants, we can put an asset tag with the
+company’s logo on the machine, and we can keep an electronic register of the customer’s
+assets. That’s a lot easier than the customer sending some guy around on a thankless mission,
+placing asset tags on computers when he can find them. What happens to the money our customer is saving? They get to keep most of it. We could
+say, “Well, it costs you $300 to do it, so we’ll charge you $250.” But instead we charge $15 or
+$20, and we make our product and our service much more valuable. It also means we’re not
+going to be just your PC vendor anymore. We’re going to be your IT department for PCs.
+Boeing, for example, has 100,000 Dell PCs, and we have 30 people that live at Boeing, and if
+you look at the things we’re doing for them or for other customers, we don’t look like a
+supplier, we look more like Boeing’s PC department. We become intimately involved in
+planning their PC needs and the configuration of their network.
+It’s not that we make these decisions by ourselves. They’re certainly using their own people
+to get the best answer for the company. But the people working on PCs together, both from
+Dell and Boeing, understand the needs in a very intimate way. They’re right there living it and
+breathing it, as opposed to the typical vendor who says, “Here are your computers. See you
+later.”
+We’ve always visited clients, but now some of our accounts are large enough to justify a
+dedicated on-site team. Remember, a lot of companies have far more complex problems to
+deal with than PC purchasing and servicing. They can’t wait to get somebody else to take care
+of that so they can worry about more strategic issues.
+So some of your coordination with customers is made possible through technology, but
+there’s still a good measure of old-fashioned, face-to-face human contact?
+Yes, that’s right. The idea is to use technology to free people up to solve more complicated
+problems. For example, a customer like MCI can access our internal support tools on-line in
+the same way our own technical-support teams do, saving time and money on both sides.
+They simply go to dell.com, enter some information about their system, and they have
+immediate access to the same information that we use at Dell to help customers. These tools
+are used by internal help-desk groups at large companies as well as by individuals.
+We’ve developed customized intranet sites called Premier Pages for well over 200 of our
+largest global customers. These exist securely within the customers’ firewalls, and they give
+them direct access to purchasing and technical information about the specific configurations
+they buy from us. One of our customers, for example, allows its 50,000 employees to view
+and select products on-line. They use the Premier Page as an interactive catalog of all the
+configurations the company authorizes; employees can then price and order the PC they
+want. They are happy to have some choice, and Dell and the customer are both happy to
+eliminate the paperwork and sales time normally associated with corporate purchasing. That
+frees our salespeople to play a more consultative role.
+We also have developed tools to help customers set up their own customized versions of
+dell.com. There are about 7,000 of these to date.
+How else do you stay close to your customers? 
+In these meetings, our senior technologists share their views on where the technology is
+heading and lay out road maps of product plans over the next two years. There are also
+breakout sessions and working groups in which our engineering teams focus on specific
+product areas and talk about how to solve problems that may not necessarily have anything
+to do with the commercial relationship with Dell. For example, Is leasing better than buying?
+or How do you manage the transition to Windows NT? or How do you manage a field force of
+notebook computers? People in businesses as dissimilar as Unilever and ICI can learn from each other because,
+amazingly, they have very similar problems when it comes to PCs. And we send not only our
+top technologists and engineers but also the real engineers, the people who usually don’t get
+out to talk to customers because they’re too busy developing products. All of our senior
+executives from around the company participate, spending time with the customer, listening
+to how we’re doing. The ratio is about one Dell person to one customer. At our last session,
+we had about 100 customers. And that helps us, as well, with our own demand forecasting. So we’re helping each other in
+important ways. We hire a lot of people from other companies in the industry, and they tell us
+that these meetings are unique.
+Do you spend a significant amount of your time at these meetings?
+I spend three days at each of them. They’re great events. In the normal course of our
+business, I have lots of opportunity to talk to customers one on one, but there is something
+much more powerful about this kind of forum. Customers tend to speak more openly when
+they’re with their peers and they know we’re there and we’re listening.
+At every Platinum Council, we review what they told us last time and what we did about it.
+We keep an ongoing record of the issues. Let me give you a concrete example: A few years
+ago, the engineers responsible for our desktops were operating on the theory that customers
+really wanted performance from these products—the faster the better. But what the
+customers actually said at the Platinum Councils was, “Yeah, performance, that’s okay. But
+what I really want is a stable product that doesn’t change. Because if I’m trying to run a bank
+or an airline, I don’t care if it’s 2% faster or 3% slower. What really matters is stability.” So our
+engineers thought one thing, the customers thought another thing. It took the direct feedback
+from the Platinum Councils to spotlight this failure to communicate. We responded by
+building product with intergenerational consistency over many years. The same feedback has
+helped shape the creation of our brands. For both our desktop and notebook businesses, we
+created different brands designed to deliver greater stability to corporate customers, as
+opposed to the fast technology changes that consumers demand.
+Most of the managerial challenges at Dell Computer have to do with what we call velocity—
+speeding the pace of every element of our business. Life cycles in our business are measured
+in months, not years, and if you don’t move fast, you’re out of the game. Managing velocity is
+about managing information—using a constant flow of information to drive operating
+practices, from the performance measures we track to how we work with our suppliers.
+Performance Metrics. At Dell, we use the balance sheet and the fundamentals of the P&L on a
+monthly basis as tools to manage operations. From the balance sheet, we track three cash-
+flow measures very closely. We look at weekly updates of how many days of inventory we
+have, broken out by product component. We can then work closely with our suppliers so we
+end up with the right inventory. When it’s not quite right, we can use our direct-sales model
+to steer customers toward comparable products that we do have. So we use inventory
+information to work both the front and back ends at the same time.
+The direct model turned out to have other benefits that even Michael Dell couldn’t have
+anticipated when he founded his company. “You actually get to have a relationship with the
+customer,” he explains. “And that creates valuable information, which, in turn, allows us to
+leverage our relationships with both suppliers and customers. Couple that information with
+technology, and you have the infrastructure to revolutionize the fundamental business
+models of major global companies.”
+In this interview with HBR editor-at-large Joan Magretta, Michael Dell describes how his
+company is using technology and information to blur the traditional boundaries in the value
+chain among suppliers, manufacturers, and end users. In so doing, Dell Computer is evolving
+in a direction that Michael Dell calls virtual integration. The individual pieces of the strategy—
+customer focus, supplier partnerships, mass customization, just-in-time manufacturing—may all be familiar. But Michael Dell’s insight into how to combine them is highly innovative:
+technology is enabling coordination across company boundaries to achieve new levels of
+efficiency and productivity, as well as extraordinary returns to investors. Virtual integration
+harnesses the economic benefits of two very different business models. It offers the
+advantages of a tightly coordinated supply chain that have traditionally come through
+vertical integration. At the same time, it benefits from the focus and specialization that drive
+virtual corporations. Virtual integration, as Michael Dell envisions it, has the potential to
+achieve both coordination and focus. If it delivers on that promise, it may well become a new
+organizational model for the information age.
+How has Dell pioneered a new business model within the computer industry?
+If you look back to the industry’s inception, the founding companies essentially had to create
+all the components themselves. They had to manufacture disk drives and memory chips and
+application software; all the various pieces of the industry had to be vertically integrated
+within one firm.
+So the companies that were the stars ten years ago, the Digital Equipments of this world, had
+to build massive structures to produce everything a computer needed. They had no choice
+but to become expert in a wide array of components, some of which had nothing to do with
+creating value for the customer.
+As the industry grew, more specialized companies developed to produce specific
+components. That opened up the opportunity to create a business that was far more focused
+and efficient. As a small start-up, Dell couldn’t afford to create every piece of the value chain.
+Consider a component like a graphics chip. Five or ten years ago, a whole bunch of companies
+in the personal computer industry were trying to create their own graphics chips. Now, if
+you’ve got a race with 20 players that are all vying to produce the fastest graphics chip in the
+world, do you want to be the twenty-first horse, or do you want to evaluate the field of 20 and
+pick the best one?
+It’s a pretty simple strategy, but at the time it went against the dominant, “engineering-
+centric” view of the industry. The IBMs and Compaqs and HPs subscribed to a “we-have-to-
+develop-everything” view of the world. If you weren’t doing component assembly, you
+weren’t a real computer company. It was like a rite of passage. You somehow proved your
+who just fixed your computer?” The vast majority think that person works for us, which is
+just great. That’s part of virtual integration.
+Aren’t you just outsourcing your after-sales service? Is what you’re describing fundamentally
+different from outsourcing?
+Outsourcing, at least in the IT world, is almost always a way to get rid of a problem a company
+hasn’t been able to solve itself. The classic case is the company with 2,000 people in the IT
+department. Nobody knows what they do, and nobody knows why they do it. The solution—
+outsource IT to a service provider, and hopefully they’ll fix it. But if you look at what happens
+five years later, it’s not necessarily a pretty picture.
+That’s not what we’re doing at all. We focus on how we can coordinate our activities to create
+the most value for customers.
+With our service providers, we’re working to set quality measures and, more important, to
+build data linkages that let us see in real time how we’re doing—when parts are dispatched,
+for instance, or how long it takes to respond to a request for service. We look at our business
+and see, for example, that over the next ten years we are going to be making lots of notebook
+computers. Dell might need 20 million flat-panel displays, and some years there will be more
+demand than supply. Other years, there will be more supply than demand. A few companies
+are currently making multibillion-dollar investments in the manufacture of these displays.
+So we cook up a little deal where the supplier agrees to meet 25% of our volume requirements
+for displays, and because of the long-term commitment we make to them, we’ll get our
+displays year in and year out, even when there’s more demand than supply. The supplier
+effectively becomes our partner. They assign their engineers to our design team, and we start
+to treat them as if they were part of the company. For example, when we launch a new
+product, their engineers are stationed right in our plants. If a customer calls in with a
+problem, we’ll stop shipping product while they fix design flaws in real time.
+Figuring out how many partners we need has been a process of trial and error. You learn
+when you operate on the cutting edge of technology that things don’t always work as
+planned. The rule we follow is to have as few partners as possible. And they will last as long as
+they maintain their leadership in technology and quality. This isn’t like the automobile
+business, where you find a tire supplier that you will probably stick with forever. Where the
+technology is fairly stable—in monitors, for example—we expect our partnerships to last a
+long time. Others will be more volatile. But regardless of how long these relationships last,
+virtual integration means you’re basically stitching together a business with partners that are
+treated as if they’re inside the company. You’re sharing information in a real-time fashion.
+We tell our suppliers exactly what our daily production requirements are. So it’s not, “Well,
+every two weeks deliver 5,000 to this warehouse, and we’ll put them on the shelf, and then
+we’ll take them off the shelf.” It’s, “Tomorrow morning we need 8,562, and deliver them to
+door number seven by 7 a.m.”I think about it this way: Assets collect risks around them in one form or another. Inventory is
+one risk, and accounts receivable is another risk. In our case—with 70% of our sales going to
+large corporate customers—accounts receivable isn’t hard to manage because companies like
+Goldman Sachs and Microsoft and Oracle tend to be able to pay their bills. But in the
+computer industry, inventory can actually be a pretty massive risk because if the cost of
+materials goes down 50% a year and you have two or three months of inventory versus 11
+days, you’ve got a big cost disadvantage. And you’re vulnerable to product transitions, when
+you can get stuck with obsolete inventory.
+nventory velocity is one of a handful of key performance measures we watch very closely. It
+focuses us on working with our suppliers to keep reducing inventory and increasing speed.
+With a supplier like Sony, which makes very good, reliable monitors, we figure there’s no
+need for us to have any inventory at all. We are confident in putting the Dell name on them,
+and they work fine. We don’t even take these monitors out of the box to test them because
+we’ve gotten them to under 1,000 defects per million. So what’s the point in having a monitor
+put on a truck to Austin, Texas, and then taken off the truck and sent on a little tour around
+the warehouse, only to be put back on another truck? That’s just a big waste of time and
+money, unless we get our jollies from touching monitors, which we don’t.
+So we went to Sony and said, “Hey, we’re going to buy two or three million of these monitors
+this year. Why don’t we just pick them up every day as we need them?” At first, it’s a little
+confusing to the suppliers because you’re saying, “Now listen carefully. If you will help us get
+your product from the end of your line to our customer faster, we won’t have any in our
+warehouse.” And the suppliers look at you like you’re crazy and not making any sense.
+They’re used to delivering in larger quantities, so at first they think this means you’re going to
+buy less from them. And then the lightbulb goes on, and they realize we’ll be buying more
+because we’ll be taking it faster.We tell Airborne Express or UPS to come to Austin and pick up 10,000 computers a day and go
+over to the Sony factory in Mexico and pick up the corresponding number of monitors. Then
+while we’re all sleeping, they match up the computers and the monitors, and deliver them to
+the customer. Of course, this requires sophisticated data exchange. Most people are familiar with the way a
+company like Black & Decker uses information links with the thousands of retailers that sell
+its products. When a customer in Omaha buys a drill from his local hardware store, the system
+immediately tells Black & Decker to send another unit of that particular drill to that particular
+store. So their system has to replenish supply, unit by unit, to thousands of outlets. From the
+supplier’s point of view, Dell is dramatically simpler. Our orders are typically for thousands of
+units, and they need to go to only one of three manufacturing centers: Austin, Ireland, and
+Malaysia. It’s almost ideal from a supplier standpoint because we have real-time information
+on what the demand is, and all the supplier has to do is get the product to us.
+And because we build to our customers’ order, typically, with just five or six days of lead
+time, suppliers don’t have to worry about sell-through. We only maintain a few days—in some
+cases a few hours—of raw materials on hand. We communicate inventory levels and
+replenishment needs regularly—with some vendors, hourly. The typical case in our industry is the factory building 10,000 units a day, day in and day out.
+First the machines stack up in the warehouse, and then they stack up in the channel. And all
+of a sudden, the guy at the end of the chain hollers, “Whoa, hey, we’ve got too many of these.
+Everybody stop!” And the order to stop flows back through the chain until it reaches every
+component supplier. It’s literally stop and start, because if you have a 90-day lag between the
+point of demand and the point of supply, you’re going to have a lot of inefficiency in the
+process. And the more inventory and time you have, the more variability, and the more
+problems.In our industry, there’s a lot of what I call bad hygiene. Companies stuff the channel to get rid
+of old inventory and to meet short-term financial objectives. We think our approach is better.
+We substitute information for inventory and ship only when we have real demand from real
+end customers.
+How does the direct model benefit your suppliers?
+We can go to Sony and say, “We’re going to be pulling monitors from you in a very consistent,
+predictable way because the distance between the demand and the source of supply is totally
+shrunk.” The longer that distance, the more intermediary channels you add, the less likely it
+is you will have good information about demand—so you will end up with more variability,
+more inventory, higher costs, and more risk.
+Another factor that helps keep our demand for computers level is the mix of customers we
+serve. We don’t have any customer that represents more than 1% to 2% of our revenues. One
+week Exxon is buying, the next week Shell is buying, the next week Ford is buying. But all
+companies don’t decide in unison, “Well, this week we’re going to buy, next week we’re not.”
+You mention your customer mix. Does the direct model imply a particular customer strategy?
+When you’re trying to target profitable segments, averages obscure a lot, and aggregate
+financial statements are pretty meaningless. Our approach to segmentation is to take really
+big numbers and “de-average” them. Until you look inside and understand what’s going on
+by business, by customer, by geography, you don’t know anything. This is a lesson we learned
+the hard way. We incorrectly entered the retail business in 1989, thinking that our direct
+business wouldn’t grow enough, and went into computer superstores and warehouse clubs.
+But when we really started to understand the segment’s profitability, we realized we’d made
+a mistake, and so we exited.For years, we didn’t actively pursue the consumer market because we couldn’t reach our
+profit objectives. So we let our competitors introduce machines with rock-bottom prices and
+zero margins. We figured they could be the ones to teach consumers about PCs while we
+focused our efforts on more profitable segments. And then, because we’re direct and can see
+who is buying what, we noticed something interesting. The industry’s average selling price to
+consumers was going down, but ours was going up. Consumers who were now buying their
+second or third machines—who wanted the most powerful machines and needed less
+handholding—were coming to us. And without focusing on it in a significant way, we had a
+billion-dollar consumer business that was profitable. So we decided in 1997 that it was time
+to dedicate a group to serving that segment.
+Fast-Cycle Segmentation Dell’s rapid growth in recent years has been accompanied by ever
+finer cuts at customer segmentation. This is an important element of Dell’s virtual integration
+with customers. The finer the segmentation, the better able Dell is to forecast what its
+customers are going to need and when. Dell then coordinates the flow of that strategic
+information all the way back to its suppliers, effectively substituting information for
+inventory.Segmentation gets us closer to them. It allows us to understand their needs in a really deep
+way. This closeness gives us access to information that’s absolutely critical to our strategy. It
+helps us forecast what they’re going to need and when. And good forecasts are the key to
+keeping our costs down.We turn our inventory over 30 times per year. If you look at the complexity and the diversity
+of our product line, there’s no way we could do that unless we had credible information about
+what the customer is actually buying. It’s a key part of why rivals have had great difficulty
+competing with Dell. It’s not just that we sell direct, it’s also our ability to forecast demand—
+it’s both the design of the product and the way the information from the customer flows all
+the way through manufacturing to our suppliers. If you don’t have that tight linkage—the
+kind of coordination of information that used to be possible only in vertically integrated
+companies—then trying to manage to 11 days of inventory would be insane. We simply
+couldn’t do it without customers who work with us as partners.
+We see forecasting as a critical sales skill. We teach our sales-account managers to lead
+customers through a discussion of their future PC needs. We’ll walk a customer through every
+department of his company, asking him to designate which needs are certain and which are
+contingent. And when they’re contingent on some event, the salesperson will know what that
+event is so he can follow up. We can do this with our large accounts, which make up the bulk
+of our business. With smaller customers, we have real-time information about what they’re
+buying from our direct telephone salespeople. And we can also steer them in real time, on the
+phone, toward configurations that are available, so this is another way we can fine-tune the
+balance between supply and demand. It’s part of it. There are so many information links between us and our customers. For
+example, we can help large global customers manage their total purchase of PCs by selling
+them a standard product. Then when the guy whose computer isn’t working calls in from
+Singapore, the IT people don’t have to spend the first 30 minutes just figuring out what
+configuration of hardware and software he’s using. Selling direct allows us to keep track of
+the company’s total PC purchases, country by country—and that’s valuable information we
+can feed back to them. We sometimes know more about a customer’s operations than they do
+themselves. Close customer relationships have allowed us to dramatically extend the value we deliver to
+our customers. Today we routinely load the customer’s software in our factory. Eastman
+Chemical, for example, has their own unique mix of software, some of it licensed from
+Microsoft, some of it they’ve written themselves, some of it having to do with the way their
+network works. Normally, they would get their PCs, take them out of the box, and then some
+guy carrying a walkie-talkie and diskettes and CD-ROMs would come to each employee’s desk
+to hook the system up and load all that software. Typically, this takes an hour or two—and
+costs $200 to $300—and it’s a nuisance.
+Our solution was to create a massive network in our factory with high-speed, 100-megabit
+Ethernet. We’ll load Eastman Chemical’s software onto a huge Dell server. Then when a
+machine comes down the assembly line and says, “I’m an Eastman Chemical analyst
+workstation, configuration number 14,” all of a sudden a few hundred megabytes of data
+come rushing through the network and onto the workstation’s hard disk, just as part of the
+progressive build through our factory. If the customer wants, we can put an asset tag with the
+company’s logo on the machine, and we can keep an electronic register of the customer’s
+assets. That’s a lot easier than the customer sending some guy around on a thankless mission,
+placing asset tags on computers when he can find them. What happens to the money our customer is saving? They get to keep most of it. We could
+say, “Well, it costs you $300 to do it, so we’ll charge you $250.” But instead we charge $15 or
+$20, and we make our product and our service much more valuable. It also means we’re not
+going to be just your PC vendor anymore. We’re going to be your IT department for PCs.
+Boeing, for example, has 100,000 Dell PCs, and we have 30 people that live at Boeing, and if
+you look at the things we’re doing for them or for other customers, we don’t look like a
+supplier, we look more like Boeing’s PC department. We become intimately involved in
+planning their PC needs and the configuration of their network.
+It’s not that we make these decisions by ourselves. They’re certainly using their own people
+to get the best answer for the company. But the people working on PCs together, both from
+Dell and Boeing, understand the needs in a very intimate way. They’re right there living it and
+breathing it, as opposed to the typical vendor who says, “Here are your computers. See you
+later.”
+We’ve always visited clients, but now some of our accounts are large enough to justify a
+dedicated on-site team. Remember, a lot of companies have far more complex problems to
+deal with than PC purchasing and servicing. They can’t wait to get somebody else to take care
+of that so they can worry about more strategic issues.
+So some of your coordination with customers is made possible through technology, but
+there’s still a good measure of old-fashioned, face-to-face human contact?
+Yes, that’s right. The idea is to use technology to free people up to solve more complicated
+problems. For example, a customer like MCI can access our internal support tools on-line in
+the same way our own technical-support teams do, saving time and money on both sides.
+They simply go to dell.com, enter some information about their system, and they have
+immediate access to the same information that we use at Dell to help customers. These tools
+are used by internal help-desk groups at large companies as well as by individuals.
+We’ve developed customized intranet sites called Premier Pages for well over 200 of our
+largest global customers. These exist securely within the customers’ firewalls, and they give
+them direct access to purchasing and technical information about the specific configurations
+they buy from us. One of our customers, for example, allows its 50,000 employees to view
+and select products on-line. They use the Premier Page as an interactive catalog of all the
+configurations the company authorizes; employees can then price and order the PC they
+want. They are happy to have some choice, and Dell and the customer are both happy to
+eliminate the paperwork and sales time normally associated with corporate purchasing. That
+frees our salespeople to play a more consultative role.
+We also have developed tools to help customers set up their own customized versions of
+dell.com. There are about 7,000 of these to date.
+How else do you stay close to your customers? 
+In these meetings, our senior technologists share their views on where the technology is
+heading and lay out road maps of product plans over the next two years. There are also
+breakout sessions and working groups in which our engineering teams focus on specific
+product areas and talk about how to solve problems that may not necessarily have anything
+to do with the commercial relationship with Dell. For example, Is leasing better than buying?
+or How do you manage the transition to Windows NT? or How do you manage a field force of
+notebook computers? People in businesses as dissimilar as Unilever and ICI can learn from each other because,
+amazingly, they have very similar problems when it comes to PCs. And we send not only our
+top technologists and engineers but also the real engineers, the people who usually don’t get
+out to talk to customers because they’re too busy developing products. All of our senior
+executives from around the company participate, spending time with the customer, listening
+to how we’re doing. The ratio is about one Dell person to one customer. At our last session,
+we had about 100 customers. And that helps us, as well, with our own demand forecasting. So we’re helping each other in
+important ways. We hire a lot of people from other companies in the industry, and they tell us
+that these meetings are unique.
+Do you spend a significant amount of your time at these meetings?
+I spend three days at each of them. They’re great events. In the normal course of our
+business, I have lots of opportunity to talk to customers one on one, but there is something
+much more powerful about this kind of forum. Customers tend to speak more openly when
+they’re with their peers and they know we’re there and we’re listening.
+At every Platinum Council, we review what they told us last time and what we did about it.
+We keep an ongoing record of the issues. Let me give you a concrete example: A few years
+ago, the engineers responsible for our desktops were operating on the theory that customers
+really wanted performance from these products—the faster the better. But what the
+customers actually said at the Platinum Councils was, “Yeah, performance, that’s okay. But
+what I really want is a stable product that doesn’t change. Because if I’m trying to run a bank
+or an airline, I don’t care if it’s 2% faster or 3% slower. What really matters is stability.” So our
+engineers thought one thing, the customers thought another thing. It took the direct feedback
+from the Platinum Councils to spotlight this failure to communicate. We responded by
+building product with intergenerational consistency over many years. The same feedback has
+helped shape the creation of our brands. For both our desktop and notebook businesses, we
+created different brands designed to deliver greater stability to corporate customers, as
+opposed to the fast technology changes that consumers demand.
+Most of the managerial challenges at Dell Computer have to do with what we call velocity—
+speeding the pace of every element of our business. Life cycles in our business are measured
+in months, not years, and if you don’t move fast, you’re out of the game. Managing velocity is
+about managing information—using a constant flow of information to drive operating
+practices, from the performance measures we track to how we work with our suppliers.
+Performance Metrics. At Dell, we use the balance sheet and the fundamentals of the P&L on a
+monthly basis as tools to manage operations. From the balance sheet, we track three cash-
+flow measures very closely. We look at weekly updates of how many days of inventory we
+have, broken out by product component. We can then work closely with our suppliers so we
+end up with the right inventory. When it’s not quite right, we can use our direct-sales model
+to steer customers toward comparable products that we do have. So we use inventory
+information to work both the front and back ends at the same time.
+The direct model turned out to have other benefits that even Michael Dell couldn’t have
+anticipated when he founded his company. “You actually get to have a relationship with the
+customer,” he explains. “And that creates valuable information, which, in turn, allows us to
+leverage our relationships with both suppliers and customers. Couple that information with
+technology, and you have the infrastructure to revolutionize the fundamental business
+models of major global companies.”
+In this interview with HBR editor-at-large Joan Magretta, Michael Dell describes how his
+company is using technology and information to blur the traditional boundaries in the value
+chain among suppliers, manufacturers, and end users. In so doing, Dell Computer is evolving
+in a direction that Michael Dell calls virtual integration. The individual pieces of the strategy—
+customer focus, supplier partnerships, mass customization, just-in-time manufacturing—may all be familiar. But Michael Dell’s insight into how to combine them is highly innovative:
+technology is enabling coordination across company boundaries to achieve new levels of
+efficiency and productivity, as well as extraordinary returns to investors. Virtual integration
+harnesses the economic benefits of two very different business models. It offers the
+advantages of a tightly coordinated supply chain that have traditionally come through
+vertical integration. At the same time, it benefits from the focus and specialization that drive
+virtual corporations. Virtual integration, as Michael Dell envisions it, has the potential to
+achieve both coordination and focus. If it delivers on that promise, it may well become a new
+organizational model for the information age.
+How has Dell pioneered a new business model within the computer industry?
+If you look back to the industry’s inception, the founding companies essentially had to create
+all the components themselves. They had to manufacture disk drives and memory chips and
+application software; all the various pieces of the industry had to be vertically integrated
+within one firm.
+So the companies that were the stars ten years ago, the Digital Equipments of this world, had
+to build massive structures to produce everything a computer needed. They had no choice
+but to become expert in a wide array of components, some of which had nothing to do with
+creating value for the customer.
+As the industry grew, more specialized companies developed to produce specific
+components. That opened up the opportunity to create a business that was far more focused
+and efficient. As a small start-up, Dell couldn’t afford to create every piece of the value chain.
+Consider a component like a graphics chip. Five or ten years ago, a whole bunch of companies
+in the personal computer industry were trying to create their own graphics chips. Now, if
+you’ve got a race with 20 players that are all vying to produce the fastest graphics chip in the
+world, do you want to be the twenty-first horse, or do you want to evaluate the field of 20 and
+pick the best one?
+It’s a pretty simple strategy, but at the time it went against the dominant, “engineering-
+centric” view of the industry. The IBMs and Compaqs and HPs subscribed to a “we-have-to-
+develop-everything” view of the world. If you weren’t doing component assembly, you
+weren’t a real computer company. It was like a rite of passage. You somehow proved your
+who just fixed your computer?” The vast majority think that person works for us, which is
+just great. That’s part of virtual integration.
+Aren’t you just outsourcing your after-sales service? Is what you’re describing fundamentally
+different from outsourcing?
+Outsourcing, at least in the IT world, is almost always a way to get rid of a problem a company
+hasn’t been able to solve itself. The classic case is the company with 2,000 people in the IT
+department. Nobody knows what they do, and nobody knows why they do it. The solution—
+outsource IT to a service provider, and hopefully they’ll fix it. But if you look at what happens
+five years later, it’s not necessarily a pretty picture.
+That’s not what we’re doing at all. We focus on how we can coordinate our activities to create
+the most value for customers.
+With our service providers, we’re working to set quality measures and, more important, to
+build data linkages that let us see in real time how we’re doing—when parts are dispatched,
+for instance, or how long it takes to respond to a request for service. We look at our business
+and see, for example, that over the next ten years we are going to be making lots of notebook
+computers. Dell might need 20 million flat-panel displays, and some years there will be more
+demand than supply. Other years, there will be more supply than demand. A few companies
+are currently making multibillion-dollar investments in the manufacture of these displays.
+So we cook up a little deal where the supplier agrees to meet 25% of our volume requirements
+for displays, and because of the long-term commitment we make to them, we’ll get our
+displays year in and year out, even when there’s more demand than supply. The supplier
+effectively becomes our partner. They assign their engineers to our design team, and we start
+to treat them as if they were part of the company. For example, when we launch a new
+product, their engineers are stationed right in our plants. If a customer calls in with a
+problem, we’ll stop shipping product while they fix design flaws in real time.
+Figuring out how many partners we need has been a process of trial and error. You learn
+when you operate on the cutting edge of technology that things don’t always work as
+planned. The rule we follow is to have as few partners as possible. And they will last as long as
+they maintain their leadership in technology and quality. This isn’t like the automobile
+business, where you find a tire supplier that you will probably stick with forever. Where the
+technology is fairly stable—in monitors, for example—we expect our partnerships to last a
+long time. Others will be more volatile. But regardless of how long these relationships last,
+virtual integration means you’re basically stitching together a business with partners that are
+treated as if they’re inside the company. You’re sharing information in a real-time fashion.
+We tell our suppliers exactly what our daily production requirements are. So it’s not, “Well,
+every two weeks deliver 5,000 to this warehouse, and we’ll put them on the shelf, and then
+we’ll take them off the shelf.” It’s, “Tomorrow morning we need 8,562, and deliver them to
+door number seven by 7 a.m.”I think about it this way: Assets collect risks around them in one form or another. Inventory is
+one risk, and accounts receivable is another risk. In our case—with 70% of our sales going to
+large corporate customers—accounts receivable isn’t hard to manage because companies like
+Goldman Sachs and Microsoft and Oracle tend to be able to pay their bills. But in the
+computer industry, inventory can actually be a pretty massive risk because if the cost of
+materials goes down 50% a year and you have two or three months of inventory versus 11
+days, you’ve got a big cost disadvantage. And you’re vulnerable to product transitions, when
+you can get stuck with obsolete inventory.
+nventory velocity is one of a handful of key performance measures we watch very closely. It
+focuses us on working with our suppliers to keep reducing inventory and increasing speed.
+With a supplier like Sony, which makes very good, reliable monitors, we figure there’s no
+need for us to have any inventory at all. We are confident in putting the Dell name on them,
+and they work fine. We don’t even take these monitors out of the box to test them because
+we’ve gotten them to under 1,000 defects per million. So what’s the point in having a monitor
+put on a truck to Austin, Texas, and then taken off the truck and sent on a little tour around
+the warehouse, only to be put back on another truck? That’s just a big waste of time and
+money, unless we get our jollies from touching monitors, which we don’t.
+So we went to Sony and said, “Hey, we’re going to buy two or three million of these monitors
+this year. Why don’t we just pick them up every day as we need them?” At first, it’s a little
+confusing to the suppliers because you’re saying, “Now listen carefully. If you will help us get
+your product from the end of your line to our customer faster, we won’t have any in our
+warehouse.” And the suppliers look at you like you’re crazy and not making any sense.
+They’re used to delivering in larger quantities, so at first they think this means you’re going to
+buy less from them. And then the lightbulb goes on, and they realize we’ll be buying more
+because we’ll be taking it faster.We tell Airborne Express or UPS to come to Austin and pick up 10,000 computers a day and go
+over to the Sony factory in Mexico and pick up the corresponding number of monitors. Then
+while we’re all sleeping, they match up the computers and the monitors, and deliver them to
+the customer. Of course, this requires sophisticated data exchange. Most people are familiar with the way a
+company like Black & Decker uses information links with the thousands of retailers that sell
+its products. When a customer in Omaha buys a drill from his local hardware store, the system
+immediately tells Black & Decker to send another unit of that particular drill to that particular
+store. So their system has to replenish supply, unit by unit, to thousands of outlets. From the
+supplier’s point of view, Dell is dramatically simpler. Our orders are typically for thousands of
+units, and they need to go to only one of three manufacturing centers: Austin, Ireland, and
+Malaysia. It’s almost ideal from a supplier standpoint because we have real-time information
+on what the demand is, and all the supplier has to do is get the product to us.
+And because we build to our customers’ order, typically, with just five or six days of lead
+time, suppliers don’t have to worry about sell-through. We only maintain a few days—in some
+cases a few hours—of raw materials on hand. We communicate inventory levels and
+replenishment needs regularly—with some vendors, hourly. The typical case in our industry is the factory building 10,000 units a day, day in and day out.
+First the machines stack up in the warehouse, and then they stack up in the channel. And all
+of a sudden, the guy at the end of the chain hollers, “Whoa, hey, we’ve got too many of these.
+Everybody stop!” And the order to stop flows back through the chain until it reaches every
+component supplier. It’s literally stop and start, because if you have a 90-day lag between the
+point of demand and the point of supply, you’re going to have a lot of inefficiency in the
+process. And the more inventory and time you have, the more variability, and the more
+problems.In our industry, there’s a lot of what I call bad hygiene. Companies stuff the channel to get rid
+of old inventory and to meet short-term financial objectives. We think our approach is better.
+We substitute information for inventory and ship only when we have real demand from real
+end customers.
+How does the direct model benefit your suppliers?
+We can go to Sony and say, “We’re going to be pulling monitors from you in a very consistent,
+predictable way because the distance between the demand and the source of supply is totally
+shrunk.” The longer that distance, the more intermediary channels you add, the less likely it
+is you will have good information about demand—so you will end up with more variability,
+more inventory, higher costs, and more risk.
+Another factor that helps keep our demand for computers level is the mix of customers we
+serve. We don’t have any customer that represents more than 1% to 2% of our revenues. One
+week Exxon is buying, the next week Shell is buying, the next week Ford is buying. But all
+companies don’t decide in unison, “Well, this week we’re going to buy, next week we’re not.”
+You mention your customer mix. Does the direct model imply a particular customer strategy?
+When you’re trying to target profitable segments, averages obscure a lot, and aggregate
+financial statements are pretty meaningless. Our approach to segmentation is to take really
+big numbers and “de-average” them. Until you look inside and understand what’s going on
+by business, by customer, by geography, you don’t know anything. This is a lesson we learned
+the hard way. We incorrectly entered the retail business in 1989, thinking that our direct
+business wouldn’t grow enough, and went into computer superstores and warehouse clubs.
+But when we really started to understand the segment’s profitability, we realized we’d made
+a mistake, and so we exited.For years, we didn’t actively pursue the consumer market because we couldn’t reach our
+profit objectives. So we let our competitors introduce machines with rock-bottom prices and
+zero margins. We figured they could be the ones to teach consumers about PCs while we
+focused our efforts on more profitable segments. And then, because we’re direct and can see
+who is buying what, we noticed something interesting. The industry’s average selling price to
+consumers was going down, but ours was going up. Consumers who were now buying their
+second or third machines—who wanted the most powerful machines and needed less
+handholding—were coming to us. And without focusing on it in a significant way, we had a
+billion-dollar consumer business that was profitable. So we decided in 1997 that it was time
+to dedicate a group to serving that segment.
+Fast-Cycle Segmentation Dell’s rapid growth in recent years has been accompanied by ever
+finer cuts at customer segmentation. This is an important element of Dell’s virtual integration
+with customers. The finer the segmentation, the better able Dell is to forecast what its
+customers are going to need and when. Dell then coordinates the flow of that strategic
+information all the way back to its suppliers, effectively substituting information for
+inventory.Segmentation gets us closer to them. It allows us to understand their needs in a really deep
+way. This closeness gives us access to information that’s absolutely critical to our strategy. It
+helps us forecast what they’re going to need and when. And good forecasts are the key to
+keeping our costs down.We turn our inventory over 30 times per year. If you look at the complexity and the diversity
+of our product line, there’s no way we could do that unless we had credible information about
+what the customer is actually buying. It’s a key part of why rivals have had great difficulty
+competing with Dell. It’s not just that we sell direct, it’s also our ability to forecast demand—
+it’s both the design of the product and the way the information from the customer flows all
+the way through manufacturing to our suppliers. If you don’t have that tight linkage—the
+kind of coordination of information that used to be possible only in vertically integrated
+companies—then trying to manage to 11 days of inventory would be insane. We simply
+couldn’t do it without customers who work with us as partners.
+We see forecasting as a critical sales skill. We teach our sales-account managers to lead
+customers through a discussion of their future PC needs. We’ll walk a customer through every
+department of his company, asking him to designate which needs are certain and which are
+contingent. And when they’re contingent on some event, the salesperson will know what that
+event is so he can follow up. We can do this with our large accounts, which make up the bulk
+of our business. With smaller customers, we have real-time information about what they’re
+buying from our direct telephone salespeople. And we can also steer them in real time, on the
+phone, toward configurations that are available, so this is another way we can fine-tune the
+balance between supply and demand. It’s part of it. There are so many information links between us and our customers. For
+example, we can help large global customers manage their total purchase of PCs by selling
+them a standard product. Then when the guy whose computer isn’t working calls in from
+Singapore, the IT people don’t have to spend the first 30 minutes just figuring out what
+configuration of hardware and software he’s using. Selling direct allows us to keep track of
+the company’s total PC purchases, country by country—and that’s valuable information we
+can feed back to them. We sometimes know more about a customer’s operations than they do
+themselves. Close customer relationships have allowed us to dramatically extend the value we deliver to
+our customers. Today we routinely load the customer’s software in our factory. Eastman
+Chemical, for example, has their own unique mix of software, some of it licensed from
+Microsoft, some of it they’ve written themselves, some of it having to do with the way their
+network works. Normally, they would get their PCs, take them out of the box, and then some
+guy carrying a walkie-talkie and diskettes and CD-ROMs would come to each employee’s desk
+to hook the system up and load all that software. Typically, this takes an hour or two—and
+costs $200 to $300—and it’s a nuisance.
+Our solution was to create a massive network in our factory with high-speed, 100-megabit
+Ethernet. We’ll load Eastman Chemical’s software onto a huge Dell server. Then when a
+machine comes down the assembly line and says, “I’m an Eastman Chemical analyst
+workstation, configuration number 14,” all of a sudden a few hundred megabytes of data
+come rushing through the network and onto the workstation’s hard disk, just as part of the
+progressive build through our factory. If the customer wants, we can put an asset tag with the
+company’s logo on the machine, and we can keep an electronic register of the customer’s
+assets. That’s a lot easier than the customer sending some guy around on a thankless mission,
+placing asset tags on computers when he can find them. What happens to the money our customer is saving? They get to keep most of it. We could
+say, “Well, it costs you $300 to do it, so we’ll charge you $250.” But instead we charge $15 or
+$20, and we make our product and our service much more valuable. It also means we’re not
+going to be just your PC vendor anymore. We’re going to be your IT department for PCs.
+Boeing, for example, has 100,000 Dell PCs, and we have 30 people that live at Boeing, and if
+you look at the things we’re doing for them or for other customers, we don’t look like a
+supplier, we look more like Boeing’s PC department. We become intimately involved in
+planning their PC needs and the configuration of their network.
+It’s not that we make these decisions by ourselves. They’re certainly using their own people
+to get the best answer for the company. But the people working on PCs together, both from
+Dell and Boeing, understand the needs in a very intimate way. They’re right there living it and
+breathing it, as opposed to the typical vendor who says, “Here are your computers. See you
+later.”
+We’ve always visited clients, but now some of our accounts are large enough to justify a
+dedicated on-site team. Remember, a lot of companies have far more complex problems to
+deal with than PC purchasing and servicing. They can’t wait to get somebody else to take care
+of that so they can worry about more strategic issues.
+So some of your coordination with customers is made possible through technology, but
+there’s still a good measure of old-fashioned, face-to-face human contact?
+Yes, that’s right. The idea is to use technology to free people up to solve more complicated
+problems. For example, a customer like MCI can access our internal support tools on-line in
+the same way our own technical-support teams do, saving time and money on both sides.
+They simply go to dell.com, enter some information about their system, and they have
+immediate access to the same information that we use at Dell to help customers. These tools
+are used by internal help-desk groups at large companies as well as by individuals.
+We’ve developed customized intranet sites called Premier Pages for well over 200 of our
+largest global customers. These exist securely within the customers’ firewalls, and they give
+them direct access to purchasing and technical information about the specific configurations
+they buy from us. One of our customers, for example, allows its 50,000 employees to view
+and select products on-line. They use the Premier Page as an interactive catalog of all the
+configurations the company authorizes; employees can then price and order the PC they
+want. They are happy to have some choice, and Dell and the customer are both happy to
+eliminate the paperwork and sales time normally associated with corporate purchasing. That
+frees our salespeople to play a more consultative role.
+We also have developed tools to help customers set up their own customized versions of
+dell.com. There are about 7,000 of these to date.
+How else do you stay close to your customers? 
+In these meetings, our senior technologists share their views on where the technology is
+heading and lay out road maps of product plans over the next two years. There are also
+breakout sessions and working groups in which our engineering teams focus on specific
+product areas and talk about how to solve problems that may not necessarily have anything
+to do with the commercial relationship with Dell. For example, Is leasing better than buying?
+or How do you manage the transition to Windows NT? or How do you manage a field force of
+notebook computers? People in businesses as dissimilar as Unilever and ICI can learn from each other because,
+amazingly, they have very similar problems when it comes to PCs. And we send not only our
+top technologists and engineers but also the real engineers, the people who usually don’t get
+out to talk to customers because they’re too busy developing products. All of our senior
+executives from around the company participate, spending time with the customer, listening
+to how we’re doing. The ratio is about one Dell person to one customer. At our last session,
+we had about 100 customers. And that helps us, as well, with our own demand forecasting. So we’re helping each other in
+important ways. We hire a lot of people from other companies in the industry, and they tell us
+that these meetings are unique.
+Do you spend a significant amount of your time at these meetings?
+I spend three days at each of them. They’re great events. In the normal course of our
+business, I have lots of opportunity to talk to customers one on one, but there is something
+much more powerful about this kind of forum. Customers tend to speak more openly when
+they’re with their peers and they know we’re there and we’re listening.
+At every Platinum Council, we review what they told us last time and what we did about it.
+We keep an ongoing record of the issues. Let me give you a concrete example: A few years
+ago, the engineers responsible for our desktops were operating on the theory that customers
+really wanted performance from these products—the faster the better. But what the
+customers actually said at the Platinum Councils was, “Yeah, performance, that’s okay. But
+what I really want is a stable product that doesn’t change. Because if I’m trying to run a bank
+or an airline, I don’t care if it’s 2% faster or 3% slower. What really matters is stability.” So our
+engineers thought one thing, the customers thought another thing. It took the direct feedback
+from the Platinum Councils to spotlight this failure to communicate. We responded by
+building product with intergenerational consistency over many years. The same feedback has
+helped shape the creation of our brands. For both our desktop and notebook businesses, we
+created different brands designed to deliver greater stability to corporate customers, as
+opposed to the fast technology changes that consumers demand.
+Most of the managerial challenges at Dell Computer have to do with what we call velocity—
+speeding the pace of every element of our business. Life cycles in our business are measured
+in months, not years, and if you don’t move fast, you’re out of the game. Managing velocity is
+about managing information—using a constant flow of information to drive operating
+practices, from the performance measures we track to how we work with our suppliers.
+Performance Metrics. At Dell, we use the balance sheet and the fundamentals of the P&L on a
+monthly basis as tools to manage operations. From the balance sheet, we track three cash-
+flow measures very closely. We look at weekly updates of how many days of inventory we
+have, broken out by product component. We can then work closely with our suppliers so we
+end up with the right inventory. When it’s not quite right, we can use our direct-sales model
+to steer customers toward comparable products that we do have. So we use inventory
+information to work both the front and back ends at the same time.
